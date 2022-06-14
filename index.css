@@ -1,3 +1,6 @@
+html,body{
+  background-image: url("Resources/Nike-ball.png");
+}
 .carousel-item {
     height: 100vh;
     min-height: 300px;
